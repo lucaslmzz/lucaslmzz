@@ -23,3 +23,10 @@ LinkedIn: https://www.linkedin.com/in/lucas-leite-menezes-b61982239/
 Email: lucas-leite-menezes@hotmail.com
 
 Telefone: (79)999503044
+
+### Meus status:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lucaslmzz&theme=dark)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslmzz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
