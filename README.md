@@ -4,7 +4,7 @@
   
   🏠 Moro atualmente em Aracaju/SE, Brasil
   
-  😄 No momento tenho 22 anos
+  😄 No momento tenho 23 anos
   
 ### Linguagens e ferramentas:
 
