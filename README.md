@@ -14,7 +14,7 @@ Programação Funcional | Metodologias Ágeis | Scrum | Trello | GitHub | Noçõ
 
 Componentização, uso de biblioteca de componentes | Consumo de APIs | NodeJs | Express | TypeScript | Banco de dados SQL | PostgreSQL | 
 
-Construção de APIRestful | Programação Assíncrona |  ORM | TypeORM | Migrations | Inglês - Avançado
+Construção de APIRestful | Programação Assíncrona |  ORM | TypeORM | Migrations | Inglês - Avançado | Django 
 
 ### Contato:
 
